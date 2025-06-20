@@ -1,5 +1,5 @@
 # 🧑‍💻 Erick Lima 
-#### Desenvolvedor WEB Front-end
+#### 📌 Desenvolvedor WEB Front-end
 
 ```javascript
 const currentUser: User = {
@@ -15,8 +15,9 @@ const currentUser: User = {
 ```
 ##
 
-#### Linguagens e programas que utilizo no desenvolvimento WEB:
+#### 🖥️ Linguagens e programas que utilizo no desenvolvimento WEB:
 
+<br>
 <p align="left">
     <img 
         alt="Javascript"
