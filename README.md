@@ -1,5 +1,5 @@
 # 🧑‍💻 Erick Lima 
-Desenvolvedor WEB Front-end
+#### Desenvolvedor WEB Front-end
 
 ```javascript
 const currentUser: User = {
@@ -13,11 +13,9 @@ const currentUser: User = {
     ],
 }
 ```
-<p>
-    <hr>
-</p>
+##
 
-Linguagens e programas que utilizo no desenvolvimento WEB:
+#### Linguagens e programas que utilizo no desenvolvimento WEB:
 
 <p align="left">
     <img 
@@ -36,12 +34,12 @@ Linguagens e programas que utilizo no desenvolvimento WEB:
 
 <p align="left">
     <img 
-        alt="CSS"
-        src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white"
-    >
-    <img 
         alt="HTML"
         src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"
+    >
+    <img 
+        alt="CSS"
+        src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white"
     >
     <img 
         alt="MUI"
@@ -51,10 +49,6 @@ Linguagens e programas que utilizo no desenvolvimento WEB:
 
 <p align="left">
     <img 
-        alt="Figma"
-        src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"
-    >
-    <img 
         alt="VSCode"
         src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"
     >
@@ -62,11 +56,15 @@ Linguagens e programas que utilizo no desenvolvimento WEB:
         alt="Github"
         src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"
     >
+    <img 
+        alt="Figma"
+        src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"
+    >
 </p>
 
 <p align="left">
     <img 
-        alt="npm"
+        alt="NPM"
         src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"
     >
     <img 
@@ -74,5 +72,3 @@ Linguagens e programas que utilizo no desenvolvimento WEB:
         src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"
     >
 </p>
-
-<hr>
