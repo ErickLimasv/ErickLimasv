@@ -42,17 +42,9 @@ const currentUser: User = {
         alt="CSS"
         src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white"
     >
-    <img 
-        alt="MUI"
-        src="https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white"
-    >
 </p>
 
 <p align="left">
-    <img 
-        alt="VSCode"
-        src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"
-    >
     <img 
         alt="Github"
         src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"
