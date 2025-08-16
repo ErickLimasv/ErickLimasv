@@ -9,7 +9,7 @@ const currentUser: User = {
     hobbies: [
         "Assistir Séries SCI-FI 🤖",
         "Jogar Vídeogame 🎮",
-        "Viajar 🗺️"
+        "Ler 📖"
     ],
 }
 ```
