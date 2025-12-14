@@ -5,12 +5,7 @@
 const currentUser: User = {
     name: "Erick Lima",
     age: 21,
-    stack: "Front-end",
-    hobbies: [
-        "Assistir Séries SCI-FI 🤖",
-        "Jogar Vídeogame 🎮",
-        "Ler 📖"
-    ],
+    stack: "Fullstack"
 }
 ```
 ##
