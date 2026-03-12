@@ -26,6 +26,10 @@ const currentUser: User = {
         alt="React"
         src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"
     >
+    <img 
+        alt="MySql"
+        src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=React&logoColor=black"
+    >
 </p>
 
 <p align="left">
