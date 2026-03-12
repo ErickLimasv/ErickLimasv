@@ -4,7 +4,7 @@
 ```javascript
 const currentUser: User = {
     name: "Erick Lima",
-    age: 21,
+    age: 22,
     stack: "Front-End"
 }
 ```
