@@ -5,7 +5,7 @@
 const currentUser: User = {
     name: "Erick Lima",
     age: 22,
-    stack: "Front-End"
+    stack: "Full-Stack"
 }
 ```
 ##
